@@ -11,4 +11,5 @@ while True:
     print("The circumfrence of your cirlce is ",circumfrence)
     break
   else:
-    diameter = input('Unsuccesful. \n')
+    diameter = input('Unsuccesful. \nPlease enter valid diameter. \n')
+    
